@@ -1,0 +1,21 @@
+
+.dashboard{
+
+    main{
+    padding-top: 100px;
+
+    #dahsHead{
+        display: flex;
+        justify-content: space-between;
+        padding: 0  20px;
+
+        .button{
+            padding: 4px 5px;
+            margin: 0 6px;
+            display: flex;
+            border: 2px solid;
+        }
+    }
+
+    }
+}
